@@ -19,5 +19,6 @@ public class HomeMod {
         SetHomeCommand.register(event.getDispatcher());
         DelHomeCommand.register(event.getDispatcher());
         HomeCommand.register(event.getDispatcher());
+        ListHomesCommand.register(event.getDispatcher());
     }
 }

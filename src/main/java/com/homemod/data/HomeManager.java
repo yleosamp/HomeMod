@@ -52,4 +52,8 @@ public class HomeManager {
         }
         return null;
     }
+
+    public static Map<String, HomeLocation> getPlayerHomes(ServerPlayer player) {
+        return playerHomes.get(player.getUUID());
+    }
 }
