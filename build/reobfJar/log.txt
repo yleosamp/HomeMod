@@ -6,6 +6,7 @@ Classpath:
  - C:\Users\Leonardo\.gradle\caches\forge_gradle\minecraft_repo\versions\1.18.2\client-extra.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.18.2-40.2.0\1166c0df109ded579c9b9c84c81c814aa51f2949\fmlloader-1.18.2-40.2.0.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJar\0.3.0\224dc7851fd1613b681365adcd8af636aa52e505\JarJar-0.3.0.jar
+ - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.9\8a432c1d6825781e21a02db2e2c33c5fde2833b9\gson-2.8.9.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.0.1-jre\119ea2b2bc205b138974d351777b20f02b92704b\guava-31.0.1-jre.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.0.0\6ef160c3133a78de015830860197602ca1c855d3\java-objc-bridge-1.0.0.jar
@@ -59,7 +60,6 @@ Classpath:
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.15\49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d\commons-codec-1.15.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.0.18\c1ef1234282716483c92183f49bef47b1a89bfa9\brigadier-1.0.18.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\4.1.27\a02c43824ce57c3f7a7d7e744f0d99a040398b5\datafixerupper-4.1.27.jar
- - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.9\8a432c1d6825781e21a02db2e2c33c5fde2833b9\gson-2.8.9.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\com.mojang\authlib\3.3.39\289405e70c0917eaeac017f7fba9adb4427baa36\authlib-3.3.39.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar
  - C:\Users\Leonardo\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
@@ -97,13 +97,13 @@ Loading mappings... 50%
 0 packages, 6399 classes, 28861 fields, 53847 methods
 Remapping final jar
 Remapping jar...  6%
-Remapping jar... 12%
-Remapping jar... 24%
-Remapping jar... 35%
-Remapping jar... 41%
-Remapping jar... 53%
-Remapping jar... 65%
-Remapping jar... 71%
-Remapping jar... 82%
+Remapping jar... 11%
+Remapping jar... 22%
+Remapping jar... 33%
+Remapping jar... 44%
+Remapping jar... 50%
+Remapping jar... 61%
+Remapping jar... 72%
+Remapping jar... 83%
 Remapping jar... 94%
 Remapping jar... 100%
