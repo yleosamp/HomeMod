@@ -73,4 +73,4 @@ Todos os direitos reservados.
 
 ---
 
-Desenvolvido por [Seu Nome] para a comunidade Minecraft Forge.
+Desenvolvido por yleo para a comunidade Minecraft Forge.
