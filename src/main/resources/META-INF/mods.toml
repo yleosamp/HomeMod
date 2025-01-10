@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+
+[[mods]]
+modId="homemod"
+version="1.0.0"
+displayName="Home Mod"
+description='''
+Mod que adiciona sistema de homes com limite de 3 homes por jogador
+''' 
